@@ -1,4 +1,4 @@
-package main.com.ratio.model;
+package com.ratio.model;
 
 /**
  * Created by tat26 on 4/8/2014.

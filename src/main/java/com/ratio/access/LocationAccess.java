@@ -1,4 +1,4 @@
-package main.com.ratio.access;
+package com.ratio.access;
 
 /**
  * Created by user on 4/19/14.

@@ -1,6 +1,6 @@
-package main.com.ratio.access;
+package com.ratio.access;
 
-import main.com.ratio.model.Buzz;
+import com.ratio.model.Buzz;
 
 /**
  * Created by Buzz on 4/19/14.

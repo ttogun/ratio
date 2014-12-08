@@ -1,6 +1,6 @@
-package main.com.ratio.access;
+package com.ratio.access;
 
-import main.com.ratio.model.CheckInOut;
+import com.ratio.model.CheckInOut;
 
 /**
  * Created by user on 4/19/14.

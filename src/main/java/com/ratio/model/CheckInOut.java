@@ -1,4 +1,4 @@
-package main.com.ratio.model;
+package com.ratio.model;
 
 import java.util.Date;
 
